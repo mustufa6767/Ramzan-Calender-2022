@@ -1,0 +1,40 @@
+#yyy{
+    width: 1300px;
+}
+td{
+     letter-spacing: 10px; 
+     color:black;
+     background-color:chocolate;
+     font-size: 20px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+     
+     
+     
+}
+table{
+    background-color:whitesmoke;
+    position: relative;
+    left: 30px;
+
+}
+h1{
+    text-decoration: underline;
+    font-size: 80px;
+    background-color: rgb(223, 121, 48);
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+#mmm{
+    background-color:darkgray;
+}
+#fff{
+    background-color:darkgray
+}
+label{
+    font-size: 30px;
+    margin-left: 1200px;
+}
+p{
+    margin-left: 1050px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
